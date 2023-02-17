@@ -1,1 +1,1 @@
-# minimax-bayes-rl
+# Minimax-Bayes Reinforcement Learning 
